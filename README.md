@@ -1,3 +1,4 @@
+![logo](https://github.com/souvikchakraborty09/souvikchakraborty09/blob/main/sOUVIK%20cHAKRABORTY.png)
 <h1 align="center">Hi 👋, I'm Souvik Chakraborty</h1>
 <h3 align="center">A passionate Data Science enthusiast from India</h3>
 
